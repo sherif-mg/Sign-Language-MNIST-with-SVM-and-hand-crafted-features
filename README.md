@@ -1,0 +1,1 @@
+# Sign-Language-MNIST-with-SVM-and-hand-crafted-features
